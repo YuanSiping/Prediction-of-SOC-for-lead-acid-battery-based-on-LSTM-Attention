@@ -1,6 +1,7 @@
 ## 安装
 
 python 3.9
+
 mindspore 2.2.10
 
 ## 介绍
